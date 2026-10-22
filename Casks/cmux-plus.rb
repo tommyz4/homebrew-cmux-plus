@@ -1,6 +1,6 @@
 cask "cmux-plus" do
-  version "0.65.2-plus.1"
-  sha256 "0ec467baade78231756c796fddc99fdc4318f649819830bfa368279d24d9a078"
+  version "0.65.2-plus.2"
+  sha256 "a11643891b132539751e67a2a6c5d0359494274577a0a101c95e22d3cf7e7e3f"
 
   url "https://github.com/tommyz4/cmux/releases/download/plus-v#{version}/cmux-plus-macos.dmg"
   name "cmux Plus"
